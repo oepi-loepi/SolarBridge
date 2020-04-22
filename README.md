@@ -4,7 +4,7 @@ An ESP8266 Based bridge between GroWatt Solar API, Toon, Pulses and webinterface
 
 A very cheap to built software bridge which can be installed on a Wemos mini (Aliexpress ab. 2 euros) and a PC817 optocoupler (Aliexpress ab. 10 cents). In this case it is not needed to install a power meter into the fuse box. Also it is possible to easily connect the GroWatt converter to the Toon, even if the inverter is located far arway from the meter adapter.
 
-![Image 1](https://github.com/oepi-loepi/SolarBridge/edit/Images/IMG_0515.jpg)
+![Image 1](https://github.com/oepi-loepi/SolarBridge/blob/Images/Images/IMG_0515.jpg)
 
 It will check solarpower from the GroWatt API every 1 minute. It will convert the Solarpower to S0 pulses (divided over the minute) and it will serve a webpage.
 
