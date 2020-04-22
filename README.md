@@ -8,7 +8,6 @@ A very cheap to built software bridge which can be installed on a Wemos mini (Al
 
 It will check solarpower from the GroWatt API every 1 minute. It will convert the Solarpower to S0 pulses (divided over the minute) and it will serve a webpage.
 
-![Image 2](https://github.com/oepi-loepi/SolarBridge/blob/Images/Images/edited-image_zpsmdi8naqg.jpg)
 
 1. Built it
 2. Upload the software
